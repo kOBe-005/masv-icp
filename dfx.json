@@ -9,8 +9,8 @@
             "gzip": true,
             "assets": [
                 [
-                    "src/frontend/dist",
-                    "dist"
+                    "src/frontend/build",
+                    "build"
                 ]
             ],
             "build_assets": "npm run build",
